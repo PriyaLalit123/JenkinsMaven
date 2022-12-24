@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-24T19:14:02 IST" name="Suite" finished-at="2022-12-24T19:14:34 IST" duration-ms="32705">
+    <groups>
+    </groups>
+    <test started-at="2022-12-24T19:14:02 IST" name="Test" finished-at="2022-12-24T19:14:34 IST" duration-ms="32705">
+      <class name="MavenJenkins.UITest">
+        <test-method signature="OpenURL()[pri:0, instance:MavenJenkins.UITest@6253c26]" started-at="2022-12-24T19:14:02 IST" name="OpenURL" finished-at="2022-12-24T19:14:34 IST" duration-ms="32529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+      </class> <!-- MavenJenkins.UITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
